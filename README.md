@@ -5,3 +5,4 @@ I explored tweets around key Game of Thrones episodes to see how topics and emot
 **Where to look**
 - **results/figures/** — my exported plots (top words, topic loadings, timelines).
 - **data/sample/** — a tiny sample of the dataset for quick inspection/run-through.
+- **in the docs** folder, you can find the complete html study and all the code used.
